@@ -1,1 +1,15 @@
-test
+Le but du projet est de créer un algorithme de recommandation de films.
+On scrappe le site letterboxd.com pour récolter des données sur une large quantité de films.
+On scrappe également le profil de d'utilisateurs du site consentants afin de pouvoir leur recommander des films en fonction de leur goût.
+les différents paramètre récoltés par films sont par exemple :
+-Les genre (19 possibles)
+-Les 3 acteurs principaux
+-Le réalisateur
+-L'année de sortie (ou la décennie)
+-Le pays de production
+
+Grâce à ces données nous pouvons créer un vecteur représentant le film.
+Pour cela nous devons transformer les valeurs textuelles en vecteurs numériques.
+Côté utilisateur, nous devons faire une moyenne des vecteurs des films qu'il a vu.
+Cette moyenne peut être éventuellement pondérée par la note attribué à ce film par l'utilisateur.
+Ensuite, nous pouvons utiliser des algorithmes comme K-NN pour proposer les films qui ressemblent le plus au profil de l'utilisateur 
