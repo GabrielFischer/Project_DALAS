@@ -23,3 +23,11 @@ director_url=debut_url+director.get("href","")
 print(director_url)
 director_name=director.span.text.strip()
 print(director_name)
+
+#Actors
+actors=page.find("div",{"class" : "cast-list text-sluglist"})
+first_three_actors = actors.find_all("a")[:3] #ne pose pas de problème si on a moins que 3 acteurs
+for actor in first_three_actors:
+    print(actor.text.strip())
+
+
