@@ -4,7 +4,7 @@ We also scrape the profiles of consenting users of the site so that we can recom
 The various parameters collected per film include, for example:
 - Genre (19 possible)
 - The main actors
-- The director
+- The directors
 - The year of release (or decade)
 - The country of production
 
