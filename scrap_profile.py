@@ -1,5 +1,4 @@
 import get_movie_data
-import get_movie_links
 import get_movie_links_profile
 import time
 import json
@@ -7,7 +6,7 @@ import json
 start_time = time.time()
 #gaby93 nailuujj
 user="gaby93"
-list_movie_link=get_movie_links_profile.get_movies_watched(user)
+list_movie_link=get_movie_links_profile.get_movies_watched()
 
 
 profile_data_dico={}
@@ -20,5 +19,5 @@ end_time=time.time()
 print(f"Durée d'exécution:{end_time-start_time}s")
 
 
-with open(f"./data/json/data_{user}.json",'w') as json_file:
+with open(f"./data/json/data_profile_{user}.json",'w') as json_file:
     json.dump(profile_data_dico,json_file,indent=4)

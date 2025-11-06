@@ -1,6 +1,5 @@
 import bs4
 from urllib import request
-import time
 
 
 def get_page_html(link)->bs4.BeautifulSoup:
