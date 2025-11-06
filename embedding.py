@@ -3,9 +3,10 @@ from sklearn.metrics.pairwise import cosine_similarity
 import numpy as np
 import pandas as pd
 import json
+import time
 
-
-file_path = 'data.json'
+debut=time.time()
+file_path = './data/json/data.json'
 with open(file_path, 'r') as f:
     films_tokens = json.load(f)
 
@@ -74,8 +75,11 @@ film_embeddings = np.array([
 sim_matrix = cosine_similarity(film_embeddings)
 df_sim = pd.DataFrame(sim_matrix, index=film_titles, columns=film_titles)
 
+fin=time.time()
+print(fin-debut)
 print("\nSimilarité cosinus entre les films :\n")
 print(df_sim.round(3))
+
 
 # =========================================================
 # 5. Trouver les films similaires
@@ -91,7 +95,8 @@ def films_similaires(titre, top_n=3):
 # print(films_similaires("Inception"))
 
 
-df_sim.to_csv('data_embedding.csv', index=True)
+
+df_sim.to_csv('./data/results/data_embedding.csv', index=True)
 
 
 
@@ -99,5 +104,5 @@ example_film = film_titles[0]
 print(f"\nFilms les plus similaires à '{example_film}' :")
 print(films_similaires(example_film))
 
-print(np.min(df_sim))
-#print(film_titles[np.argmin(df_sim)//720],film_titles[np.argmin(df_sim)%720])
+print(np.min(df_sim),np.argmin(df_sim))
+print(film_titles[np.argmin(df_sim)//721],film_titles[np.argmin(df_sim)%721])

@@ -19,7 +19,7 @@
         "GENRE_thriller",
         "GENRE_comedy",
         "GENRE_drama",
-        "YEAR_2010"
+        "DECADE_2010"
     ],
     "barbie": [
         "ACTOR_margot-robbie",
@@ -43,7 +43,7 @@
         "LANGUAGE_english",
         "GENRE_comedy",
         "GENRE_adventure",
-        "YEAR_2020"
+        "DECADE_2020"
     ],
     "interstellar": [
         "ACTOR_matthew-mcconaughey",
@@ -66,7 +66,7 @@
         "GENRE_science-fiction",
         "GENRE_drama",
         "GENRE_adventure",
-        "YEAR_2010"
+        "DECADE_2010"
     ],
     "fight-club": [
         "ACTOR_edward-norton",
@@ -90,7 +90,7 @@
         "LANGUAGE_english",
         "GENRE_drama",
         "GENRE_thriller",
-        "YEAR_1990"
+        "DECADE_1990"
     ],
     "la-la-land": [
         "ACTOR_ryan-gosling",
@@ -113,7 +113,7 @@
         "GENRE_drama",
         "GENRE_comedy",
         "GENRE_romance",
-        "YEAR_2010"
+        "DECADE_2010"
     ],
     "everything-everywhere-all-at-once": [
         "ACTOR_michelle-yeoh",
@@ -140,7 +140,7 @@
         "GENRE_adventure",
         "GENRE_comedy",
         "GENRE_action",
-        "YEAR_2020"
+        "DECADE_2020"
     ],
     "whiplash-2014": [
         "ACTOR_miles-teller",
@@ -161,7 +161,7 @@
         "LANGUAGE_english",
         "GENRE_drama",
         "GENRE_music",
-        "YEAR_2010"
+        "DECADE_2010"
     ],
     "oppenheimer-2023": [
         "ACTOR_cillian-murphy",
@@ -186,7 +186,7 @@
         "LANGUAGE_dutch",
         "GENRE_drama",
         "GENRE_history",
-        "YEAR_2020"
+        "DECADE_2020"
     ],
     "pulp-fiction": [
         "ACTOR_john-travolta",
@@ -210,7 +210,7 @@
         "GENRE_comedy",
         "GENRE_thriller",
         "GENRE_crime",
-        "YEAR_1990"
+        "DECADE_1990"
     ],
     "the-truman-show": [
         "ACTOR_jim-carrey",
@@ -233,7 +233,7 @@
         "LANGUAGE_italian",
         "GENRE_comedy",
         "GENRE_drama",
-        "YEAR_1990"
+        "DECADE_1990"
     ],
     "the-substance": [
         "ACTOR_demi-moore",
@@ -257,29 +257,7 @@
         "GENRE_horror",
         "GENRE_drama",
         "GENRE_science-fiction",
-        "YEAR_2020"
-    ],
-    "eternal-sunshine-of-the-spotless-mind": [
-        "ACTOR_jim-carrey",
-        "ACTOR_kate-winslet",
-        "ACTOR_kirsten-dunst",
-        "ACTOR_mark-ruffalo",
-        "ACTOR_elijah-wood",
-        "ACTOR_tom-wilkinson",
-        "ACTOR_jane-adams",
-        "ACTOR_david-cross",
-        "ACTOR_deirdre-oconnell",
-        "ACTOR_thomas-jay-ryan",
-        "DIRECTOR_michel-gondry",
-        "COUNTRY_usa",
-        "STUDIO_focus-features",
-        "STUDIO_anonymous-content",
-        "STUDIO_this-is-that-productions",
-        "LANGUAGE_english",
-        "GENRE_science-fiction",
-        "GENRE_romance",
-        "GENRE_drama",
-        "YEAR_2000"
+        "DECADE_2020"
     ],
     "get-out-2017": [
         "ACTOR_daniel-kaluuya",
@@ -301,7 +279,29 @@
         "GENRE_horror",
         "GENRE_mystery",
         "GENRE_thriller",
-        "YEAR_2010"
+        "DECADE_2010"
+    ],
+    "eternal-sunshine-of-the-spotless-mind": [
+        "ACTOR_jim-carrey",
+        "ACTOR_kate-winslet",
+        "ACTOR_kirsten-dunst",
+        "ACTOR_mark-ruffalo",
+        "ACTOR_elijah-wood",
+        "ACTOR_tom-wilkinson",
+        "ACTOR_jane-adams",
+        "ACTOR_david-cross",
+        "ACTOR_deirdre-oconnell",
+        "ACTOR_thomas-jay-ryan",
+        "DIRECTOR_michel-gondry",
+        "COUNTRY_usa",
+        "STUDIO_focus-features",
+        "STUDIO_anonymous-content",
+        "STUDIO_this-is-that-productions",
+        "LANGUAGE_english",
+        "GENRE_science-fiction",
+        "GENRE_romance",
+        "GENRE_drama",
+        "DECADE_2000"
     ],
     "joker-2019": [
         "ACTOR_joaquin-phoenix",
@@ -326,7 +326,7 @@
         "GENRE_drama",
         "GENRE_thriller",
         "GENRE_crime",
-        "YEAR_2010"
+        "DECADE_2010"
     ],
     "dune-2021": [
         "ACTOR_contributor:277084",
@@ -346,7 +346,7 @@
         "LANGUAGE_chinese",
         "GENRE_science-fiction",
         "GENRE_adventure",
-        "YEAR_2020"
+        "DECADE_2020"
     ],
     "spider-man-into-the-spider-verse": [
         "ACTOR_shameik-moore",
@@ -361,7 +361,7 @@
         "ACTOR_kimiko-glenn",
         "DIRECTOR_bob-persichetti",
         "DIRECTOR_peter-ramsey",
-        "DIRECTOR_er-man-into-the-spider-verse/crew/#cre",
+        "DIRECTOR_rodney-rothman",
         "COUNTRY_usa",
         "STUDIO_columbia-pictures",
         "STUDIO_lord-miller",
@@ -376,7 +376,7 @@
         "GENRE_animation",
         "GENRE_action",
         "GENRE_science-fiction",
-        "YEAR_2010"
+        "DECADE_2010"
     ],
     "midsommar": [
         "ACTOR_florence-pugh",
@@ -399,30 +399,30 @@
         "GENRE_mystery",
         "GENRE_drama",
         "GENRE_horror",
-        "YEAR_2010"
+        "DECADE_2010"
     ],
-    "the-batman": [
-        "ACTOR_robert-pattinson",
-        "ACTOR_zoe-kravitz",
-        "ACTOR_jeffrey-wright",
-        "ACTOR_colin-farrell",
-        "ACTOR_paul-dano",
-        "ACTOR_john-turturro",
-        "ACTOR_andy-serkis",
-        "ACTOR_peter-sarsgaard",
-        "ACTOR_barry-keoghan",
+    "sinners-2025": [
+        "ACTOR_michael-b-jordan",
+        "ACTOR_hailee-steinfeld",
+        "ACTOR_miles-caton",
+        "ACTOR_jack-oconnell-1",
+        "ACTOR_wunmi-mosaku",
         "ACTOR_jayme-lawson",
-        "DIRECTOR_matt-reeves",
+        "ACTOR_omar-benson-miller",
+        "ACTOR_delroy-lindo",
+        "ACTOR_li-jun-li",
+        "ACTOR_yao",
+        "DIRECTOR_ryan-coogler",
         "COUNTRY_usa",
-        "STUDIO_6th-idaho",
-        "STUDIO_dylan-clark-productions",
-        "STUDIO_dc-films-1",
         "STUDIO_warner-bros-pictures",
+        "STUDIO_proximity-media",
+        "STUDIO_domain-entertainment",
         "LANGUAGE_english",
-        "GENRE_crime",
-        "GENRE_mystery",
+        "LANGUAGE_abkhaz",
         "GENRE_thriller",
-        "YEAR_2020"
+        "GENRE_action",
+        "GENRE_horror",
+        "DECADE_2020"
     ],
     "the-dark-knight": [
         "ACTOR_christian-bale",
@@ -448,30 +448,30 @@
         "GENRE_thriller",
         "GENRE_action",
         "GENRE_crime",
-        "YEAR_2000"
+        "DECADE_2000"
     ],
-    "sinners-2025": [
-        "ACTOR_michael-b-jordan",
-        "ACTOR_hailee-steinfeld",
-        "ACTOR_miles-caton",
-        "ACTOR_jack-oconnell-1",
-        "ACTOR_wunmi-mosaku",
+    "the-batman": [
+        "ACTOR_robert-pattinson",
+        "ACTOR_zoe-kravitz",
+        "ACTOR_jeffrey-wright",
+        "ACTOR_colin-farrell",
+        "ACTOR_paul-dano",
+        "ACTOR_john-turturro",
+        "ACTOR_andy-serkis",
+        "ACTOR_peter-sarsgaard",
+        "ACTOR_barry-keoghan",
         "ACTOR_jayme-lawson",
-        "ACTOR_omar-benson-miller",
-        "ACTOR_delroy-lindo",
-        "ACTOR_li-jun-li",
-        "ACTOR_yao",
-        "DIRECTOR_ryan-coogler",
+        "DIRECTOR_matt-reeves",
         "COUNTRY_usa",
+        "STUDIO_6th-idaho",
+        "STUDIO_dylan-clark-productions",
+        "STUDIO_dc-films-1",
         "STUDIO_warner-bros-pictures",
-        "STUDIO_proximity-media",
-        "STUDIO_domain-entertainment",
         "LANGUAGE_english",
-        "LANGUAGE_abkhaz",
+        "GENRE_crime",
+        "GENRE_mystery",
         "GENRE_thriller",
-        "GENRE_action",
-        "GENRE_horror",
-        "YEAR_2020"
+        "DECADE_2020"
     ],
     "inception": [
         "ACTOR_leonardo-dicaprio",
@@ -497,7 +497,7 @@
         "GENRE_action",
         "GENRE_adventure",
         "GENRE_science-fiction",
-        "YEAR_2010"
+        "DECADE_2010"
     ],
     "dead-poets-society": [
         "ACTOR_robin-williams",
@@ -519,7 +519,7 @@
         "LANGUAGE_english",
         "LANGUAGE_latin",
         "GENRE_drama",
-        "YEAR_1980"
+        "DECADE_1980"
     ],
     "american-psycho": [
         "ACTOR_christian-bale",
@@ -546,7 +546,7 @@
         "GENRE_drama",
         "GENRE_thriller",
         "GENRE_horror",
-        "YEAR_2000"
+        "DECADE_2000"
     ],
     "knives-out-2019": [
         "ACTOR_daniel-craig",
@@ -569,26 +569,7 @@
         "GENRE_mystery",
         "GENRE_comedy",
         "GENRE_crime",
-        "YEAR_2010"
-    ],
-    "dune-part-two": [
-        "ACTOR_contributor:277084",
-        "ACTOR_zendaya",
-        "ACTOR_rebecca-ferguson",
-        "ACTOR_javier-bardem",
-        "ACTOR_josh-brolin",
-        "ACTOR_austin-butler",
-        "ACTOR_florence-pugh",
-        "ACTOR_dave-bautista",
-        "ACTOR_christopher-walken",
-        "ACTOR_lea-seydoux",
-        "DIRECTOR_denis-villeneuve",
-        "COUNTRY_usa",
-        "STUDIO_legendary-pictures-1",
-        "LANGUAGE_english",
-        "GENRE_adventure",
-        "GENRE_science-fiction",
-        "YEAR_2020"
+        "DECADE_2010"
     ],
     "10-things-i-hate-about-you": [
         "ACTOR_heath-ledger",
@@ -610,7 +591,26 @@
         "GENRE_comedy",
         "GENRE_drama",
         "GENRE_romance",
-        "YEAR_1990"
+        "DECADE_1990"
+    ],
+    "dune-part-two": [
+        "ACTOR_contributor:277084",
+        "ACTOR_zendaya",
+        "ACTOR_rebecca-ferguson",
+        "ACTOR_javier-bardem",
+        "ACTOR_josh-brolin",
+        "ACTOR_austin-butler",
+        "ACTOR_florence-pugh",
+        "ACTOR_dave-bautista",
+        "ACTOR_christopher-walken",
+        "ACTOR_lea-seydoux",
+        "DIRECTOR_denis-villeneuve",
+        "COUNTRY_usa",
+        "STUDIO_legendary-pictures-1",
+        "LANGUAGE_english",
+        "GENRE_adventure",
+        "GENRE_science-fiction",
+        "DECADE_2020"
     ],
     "spider-man-across-the-spider-verse": [
         "ACTOR_shameik-moore",
@@ -625,7 +625,7 @@
         "ACTOR_karan-soni",
         "DIRECTOR_kemp-powers",
         "DIRECTOR_justin-k-thompson",
-        "DIRECTOR_er-man-across-the-spider-verse/crew/#cre",
+        "DIRECTOR_joaquim-dos-santos",
         "COUNTRY_usa",
         "STUDIO_columbia-pictures",
         "STUDIO_sony-pictures-animation",
@@ -641,7 +641,7 @@
         "GENRE_science-fiction",
         "GENRE_adventure",
         "GENRE_action",
-        "YEAR_2020"
+        "DECADE_2020"
     ],
     "spirited-away": [
         "ACTOR_rumi-hiiragi",
@@ -666,7 +666,7 @@
         "GENRE_family",
         "GENRE_fantasy",
         "GENRE_animation",
-        "YEAR_2000"
+        "DECADE_2000"
     ],
     "the-wolf-of-wall-street": [
         "ACTOR_leonardo-dicaprio",
@@ -690,7 +690,7 @@
         "GENRE_comedy",
         "GENRE_drama",
         "GENRE_crime",
-        "YEAR_2010"
+        "DECADE_2010"
     ],
     "superman-2025": [
         "ACTOR_david-corenswet",
@@ -713,7 +713,55 @@
         "GENRE_science-fiction",
         "GENRE_adventure",
         "GENRE_action",
-        "YEAR_2020"
+        "DECADE_2020"
+    ],
+    "se7en": [
+        "ACTOR_morgan-freeman",
+        "ACTOR_brad-pitt",
+        "ACTOR_gwyneth-paltrow",
+        "ACTOR_kevin-spacey",
+        "ACTOR_john-cassini",
+        "ACTOR_r-lee-ermey",
+        "ACTOR_john-c-mcginley",
+        "ACTOR_peter-crombie",
+        "ACTOR_reg-e-cathey",
+        "ACTOR_daniel-zacapa",
+        "DIRECTOR_david-fincher",
+        "COUNTRY_usa",
+        "STUDIO_new-line-cinema",
+        "STUDIO_juno-pix",
+        "STUDIO_cecchi-gori-pictures",
+        "LANGUAGE_english",
+        "GENRE_mystery",
+        "GENRE_crime",
+        "GENRE_thriller",
+        "DECADE_1990"
+    ],
+    "nosferatu-2024": [
+        "ACTOR_lily-rose-depp",
+        "ACTOR_nicholas-hoult",
+        "ACTOR_bill-skarsgard",
+        "ACTOR_aaron-taylor-johnson",
+        "ACTOR_willem-dafoe",
+        "ACTOR_emma-corrin",
+        "ACTOR_ralph-ineson",
+        "ACTOR_simon-mcburney",
+        "ACTOR_adela-hesova",
+        "ACTOR_milena-konstantinova",
+        "DIRECTOR_robert-eggers",
+        "COUNTRY_usa",
+        "STUDIO_focus-features",
+        "STUDIO_studio-8",
+        "STUDIO_maiden-voyage-pictures",
+        "STUDIO_birch-hill-road-entertainment",
+        "LANGUAGE_english",
+        "LANGUAGE_german",
+        "LANGUAGE_latin",
+        "LANGUAGE_romanian",
+        "LANGUAGE_russian",
+        "GENRE_fantasy",
+        "GENRE_horror",
+        "DECADE_2020"
     ],
     "challengers": [
         "ACTOR_zendaya",
@@ -737,78 +785,7 @@
         "LANGUAGE_romanian",
         "GENRE_romance",
         "GENRE_drama",
-        "YEAR_2020"
-    ],
-    "se7en": [
-        "ACTOR_morgan-freeman",
-        "ACTOR_brad-pitt",
-        "ACTOR_gwyneth-paltrow",
-        "ACTOR_kevin-spacey",
-        "ACTOR_john-cassini",
-        "ACTOR_r-lee-ermey",
-        "ACTOR_john-c-mcginley",
-        "ACTOR_peter-crombie",
-        "ACTOR_reg-e-cathey",
-        "ACTOR_daniel-zacapa",
-        "DIRECTOR_david-fincher",
-        "COUNTRY_usa",
-        "STUDIO_new-line-cinema",
-        "STUDIO_juno-pix",
-        "STUDIO_cecchi-gori-pictures",
-        "LANGUAGE_english",
-        "GENRE_mystery",
-        "GENRE_crime",
-        "GENRE_thriller",
-        "YEAR_1990"
-    ],
-    "nosferatu-2024": [
-        "ACTOR_lily-rose-depp",
-        "ACTOR_nicholas-hoult",
-        "ACTOR_bill-skarsgard",
-        "ACTOR_aaron-taylor-johnson",
-        "ACTOR_willem-dafoe",
-        "ACTOR_emma-corrin",
-        "ACTOR_ralph-ineson",
-        "ACTOR_simon-mcburney",
-        "ACTOR_adela-hesova",
-        "ACTOR_milena-konstantinova",
-        "DIRECTOR_robert-eggers",
-        "COUNTRY_usa",
-        "STUDIO_focus-features",
-        "STUDIO_studio-8",
-        "STUDIO_maiden-voyage-pictures",
-        "STUDIO_birch-hill-road-entertainment",
-        "LANGUAGE_english",
-        "LANGUAGE_german",
-        "LANGUAGE_spanish",
-        "LANGUAGE_romanian",
-        "LANGUAGE_russian",
-        "GENRE_fantasy",
-        "GENRE_horror",
-        "YEAR_2020"
-    ],
-    "saltburn": [
-        "ACTOR_barry-keoghan",
-        "ACTOR_jacob-elordi",
-        "ACTOR_rosamund-pike",
-        "ACTOR_richard-e-grant",
-        "ACTOR_alison-oliver",
-        "ACTOR_archie-madekwe",
-        "ACTOR_carey-mulligan",
-        "ACTOR_paul-rhys",
-        "ACTOR_ewan-mitchell",
-        "ACTOR_sadie-soverall",
-        "DIRECTOR_emerald-fennell-1",
-        "COUNTRY_uk",
-        "COUNTRY_usa",
-        "STUDIO_luckychap-entertainment",
-        "STUDIO_mrc-1",
-        "STUDIO_lie-still",
-        "LANGUAGE_english",
-        "GENRE_comedy",
-        "GENRE_drama",
-        "GENRE_thriller",
-        "YEAR_2020"
+        "DECADE_2020"
     ],
     "the-grand-budapest-hotel": [
         "ACTOR_ralph-fiennes",
@@ -833,7 +810,30 @@
         "LANGUAGE_french",
         "GENRE_comedy",
         "GENRE_drama",
-        "YEAR_2010"
+        "DECADE_2010"
+    ],
+    "saltburn": [
+        "ACTOR_barry-keoghan",
+        "ACTOR_jacob-elordi",
+        "ACTOR_rosamund-pike",
+        "ACTOR_richard-e-grant",
+        "ACTOR_alison-oliver",
+        "ACTOR_archie-madekwe",
+        "ACTOR_carey-mulligan",
+        "ACTOR_paul-rhys",
+        "ACTOR_ewan-mitchell",
+        "ACTOR_sadie-soverall",
+        "DIRECTOR_emerald-fennell-1",
+        "COUNTRY_uk",
+        "COUNTRY_usa",
+        "STUDIO_luckychap-entertainment",
+        "STUDIO_mrc-1",
+        "STUDIO_lie-still",
+        "LANGUAGE_english",
+        "GENRE_comedy",
+        "GENRE_drama",
+        "GENRE_thriller",
+        "DECADE_2020"
     ],
     "black-swan": [
         "ACTOR_natalie-portman",
@@ -859,7 +859,7 @@
         "GENRE_drama",
         "GENRE_thriller",
         "GENRE_horror",
-        "YEAR_2010"
+        "DECADE_2010"
     ],
     "lady-bird": [
         "ACTOR_saoirse-ronan",
@@ -880,7 +880,7 @@
         "LANGUAGE_english",
         "GENRE_comedy",
         "GENRE_drama",
-        "YEAR_2010"
+        "DECADE_2010"
     ],
     "poor-things-2023": [
         "ACTOR_emma-stone",
@@ -909,7 +909,7 @@
         "GENRE_romance",
         "GENRE_science-fiction",
         "GENRE_comedy",
-        "YEAR_2020"
+        "DECADE_2020"
     ],
     "forrest-gump": [
         "ACTOR_tom-hanks",
@@ -931,7 +931,7 @@
         "GENRE_drama",
         "GENRE_romance",
         "GENRE_comedy",
-        "YEAR_1990"
+        "DECADE_1990"
     ],
     "inglourious-basterds": [
         "ACTOR_brad-pitt",
@@ -959,7 +959,7 @@
         "GENRE_war",
         "GENRE_drama",
         "GENRE_thriller",
-        "YEAR_2000"
+        "DECADE_2000"
     ],
     "the-shining": [
         "ACTOR_jack-nicholson",
@@ -982,7 +982,7 @@
         "LANGUAGE_english",
         "GENRE_horror",
         "GENRE_thriller",
-        "YEAR_1980"
+        "DECADE_1980"
     ],
     "the-menu-2022": [
         "ACTOR_anya-taylor-joy",
@@ -1006,7 +1006,7 @@
         "GENRE_comedy",
         "GENRE_thriller",
         "GENRE_horror",
-        "YEAR_2020"
+        "DECADE_2020"
     ],
     "gone-girl": [
         "ACTOR_ben-affleck",
@@ -1027,7 +1027,27 @@
         "GENRE_drama",
         "GENRE_mystery",
         "GENRE_thriller",
-        "YEAR_2010"
+        "DECADE_2010"
+    ],
+    "good-will-hunting": [
+        "ACTOR_matt-damon",
+        "ACTOR_robin-williams",
+        "ACTOR_ben-affleck",
+        "ACTOR_stellan-skarsgard",
+        "ACTOR_minnie-driver",
+        "ACTOR_casey-affleck",
+        "ACTOR_cole-hauser",
+        "ACTOR_vik-sahay",
+        "ACTOR_john-mighton",
+        "ACTOR_rachel-majorowski",
+        "DIRECTOR_gus-van-sant",
+        "COUNTRY_usa",
+        "STUDIO_lawrence-bender-productions",
+        "STUDIO_be-gentlemen-limited-partnership",
+        "STUDIO_miramax-1",
+        "LANGUAGE_english",
+        "GENRE_drama",
+        "DECADE_1990"
     ],
     "anora": [
         "ACTOR_mikey-madison",
@@ -1050,7 +1070,7 @@
         "GENRE_drama",
         "GENRE_romance",
         "GENRE_comedy",
-        "YEAR_2020"
+        "DECADE_2020"
     ],
     "little-women-2019": [
         "ACTOR_saoirse-ronan",
@@ -1073,27 +1093,30 @@
         "GENRE_drama",
         "GENRE_romance",
         "GENRE_history",
-        "YEAR_2010"
+        "DECADE_2010"
     ],
-    "good-will-hunting": [
-        "ACTOR_matt-damon",
-        "ACTOR_robin-williams",
-        "ACTOR_ben-affleck",
-        "ACTOR_stellan-skarsgard",
-        "ACTOR_minnie-driver",
-        "ACTOR_casey-affleck",
-        "ACTOR_cole-hauser",
-        "ACTOR_vik-sahay",
-        "ACTOR_john-mighton",
-        "ACTOR_rachel-majorowski",
-        "DIRECTOR_gus-van-sant",
+    "the-silence-of-the-lambs": [
+        "ACTOR_jodie-foster",
+        "ACTOR_anthony-hopkins",
+        "ACTOR_scott-glenn",
+        "ACTOR_ted-levine",
+        "ACTOR_anthony-heald",
+        "ACTOR_brooke-smith",
+        "ACTOR_diane-baker",
+        "ACTOR_kasi-lemmons",
+        "ACTOR_frankie-faison",
+        "ACTOR_tracey-walter",
+        "DIRECTOR_jonathan-demme",
         "COUNTRY_usa",
-        "STUDIO_lawrence-bender-productions",
-        "STUDIO_be-gentlemen-limited-partnership",
-        "STUDIO_miramax-1",
+        "STUDIO_orion-pictures",
+        "STUDIO_strong-heart-demme-production",
+        "STUDIO_a-luta-continua",
         "LANGUAGE_english",
+        "GENRE_crime",
+        "GENRE_thriller",
+        "GENRE_horror",
         "GENRE_drama",
-        "YEAR_1990"
+        "DECADE_1990"
     ],
     "spider-man-no-way-home": [
         "ACTOR_tom-holland-4",
@@ -1116,7 +1139,7 @@
         "GENRE_adventure",
         "GENRE_action",
         "GENRE_science-fiction",
-        "YEAR_2020"
+        "DECADE_2020"
     ],
     "once-upon-a-time-in-hollywood": [
         "ACTOR_leonardo-dicaprio",
@@ -1142,30 +1165,30 @@
         "GENRE_thriller",
         "GENRE_drama",
         "GENRE_comedy",
-        "YEAR_2010"
+        "DECADE_2010"
     ],
-    "the-silence-of-the-lambs": [
-        "ACTOR_jodie-foster",
-        "ACTOR_anthony-hopkins",
-        "ACTOR_scott-glenn",
-        "ACTOR_ted-levine",
-        "ACTOR_anthony-heald",
-        "ACTOR_brooke-smith",
-        "ACTOR_diane-baker",
-        "ACTOR_kasi-lemmons",
-        "ACTOR_frankie-faison",
-        "ACTOR_tracey-walter",
-        "DIRECTOR_jonathan-demme",
+    "kill-bill-vol-1": [
+        "ACTOR_uma-thurman",
+        "ACTOR_lucy-liu",
+        "ACTOR_vivica-a-fox",
+        "ACTOR_daryl-hannah",
+        "ACTOR_david-carradine",
+        "ACTOR_michael-madsen",
+        "ACTOR_julie-dreyfus",
+        "ACTOR_chiaki-kuriyama",
+        "ACTOR_shinichi-chiba-1",
+        "ACTOR_gordon-liu-chia-hui-1",
+        "DIRECTOR_quentin-tarantino",
         "COUNTRY_usa",
-        "STUDIO_orion-pictures",
-        "STUDIO_strong-heart-demme-production",
-        "STUDIO_a-luta-continua",
+        "STUDIO_miramax-1",
+        "STUDIO_a-band-apart",
+        "STUDIO_super-cool-manchu",
         "LANGUAGE_english",
+        "LANGUAGE_japanese",
+        "LANGUAGE_french",
         "GENRE_crime",
-        "GENRE_thriller",
-        "GENRE_horror",
-        "GENRE_drama",
-        "YEAR_1990"
+        "GENRE_action",
+        "DECADE_2000"
     ],
     "call-me-by-your-name": [
         "ACTOR_armie-hammer",
@@ -1194,30 +1217,7 @@
         "LANGUAGE_italian",
         "GENRE_romance",
         "GENRE_drama",
-        "YEAR_2010"
-    ],
-    "kill-bill-vol-1": [
-        "ACTOR_uma-thurman",
-        "ACTOR_lucy-liu",
-        "ACTOR_vivica-a-fox",
-        "ACTOR_daryl-hannah",
-        "ACTOR_david-carradine",
-        "ACTOR_michael-madsen",
-        "ACTOR_julie-dreyfus",
-        "ACTOR_chiaki-kuriyama",
-        "ACTOR_shinichi-chiba-1",
-        "ACTOR_gordon-liu-chia-hui-1",
-        "DIRECTOR_quentin-tarantino",
-        "COUNTRY_usa",
-        "STUDIO_miramax-1",
-        "STUDIO_a-band-apart",
-        "STUDIO_super-cool-manchu",
-        "LANGUAGE_english",
-        "LANGUAGE_japanese",
-        "LANGUAGE_french",
-        "GENRE_crime",
-        "GENRE_action",
-        "YEAR_2000"
+        "DECADE_2010"
     ],
     "500-days-of-summer": [
         "ACTOR_joseph-gordon-levitt",
@@ -1241,7 +1241,7 @@
         "GENRE_romance",
         "GENRE_comedy",
         "GENRE_drama",
-        "YEAR_2000"
+        "DECADE_2000"
     ],
     "shutter-island": [
         "ACTOR_leonardo-dicaprio",
@@ -1265,7 +1265,7 @@
         "GENRE_mystery",
         "GENRE_drama",
         "GENRE_thriller",
-        "YEAR_2010"
+        "DECADE_2010"
     ],
     "the-godfather": [
         "ACTOR_marlon-brando",
@@ -1287,7 +1287,7 @@
         "LANGUAGE_italian",
         "GENRE_crime",
         "GENRE_drama",
-        "YEAR_1970"
+        "DECADE_1970"
     ],
     "fantastic-mr-fox": [
         "ACTOR_george-clooney",
@@ -1312,7 +1312,25 @@
         "GENRE_animation",
         "GENRE_family",
         "GENRE_adventure",
-        "YEAR_2000"
+        "DECADE_2000"
+    ],
+    "the-perks-of-being-a-wallflower": [
+        "ACTOR_logan-lerman",
+        "ACTOR_emma-watson",
+        "ACTOR_ezra-miller",
+        "ACTOR_mae-whitman",
+        "ACTOR_kate-walsh",
+        "ACTOR_dylan-mcdermott",
+        "ACTOR_melanie-lynskey",
+        "ACTOR_nina-dobrev",
+        "ACTOR_johnny-simmons",
+        "ACTOR_joan-cusack",
+        "DIRECTOR_stephen-chbosky",
+        "COUNTRY_usa",
+        "STUDIO_mr-mudd-production",
+        "LANGUAGE_english",
+        "GENRE_drama",
+        "DECADE_2010"
     ],
     "ratatouille": [
         "ACTOR_patton-oswalt",
@@ -1335,25 +1353,7 @@
         "GENRE_fantasy",
         "GENRE_animation",
         "GENRE_comedy",
-        "YEAR_2000"
-    ],
-    "the-perks-of-being-a-wallflower": [
-        "ACTOR_logan-lerman",
-        "ACTOR_emma-watson",
-        "ACTOR_ezra-miller",
-        "ACTOR_mae-whitman",
-        "ACTOR_kate-walsh",
-        "ACTOR_dylan-mcdermott",
-        "ACTOR_melanie-lynskey",
-        "ACTOR_nina-dobrev",
-        "ACTOR_johnny-simmons",
-        "ACTOR_joan-cusack",
-        "DIRECTOR_stephen-chbosky",
-        "COUNTRY_usa",
-        "STUDIO_mr-mudd-production",
-        "LANGUAGE_english",
-        "GENRE_drama",
-        "YEAR_2010"
+        "DECADE_2000"
     ],
     "wicked-2024": [
         "ACTOR_cynthia-erivo",
@@ -1374,7 +1374,7 @@
         "GENRE_romance",
         "GENRE_drama",
         "GENRE_fantasy",
-        "YEAR_2020"
+        "DECADE_2020"
     ],
     "django-unchained": [
         "ACTOR_jamie-foxx",
@@ -1396,7 +1396,7 @@
         "LANGUAGE_german",
         "GENRE_drama",
         "GENRE_western",
-        "YEAR_2010"
+        "DECADE_2010"
     ],
     "avengers-infinity-war": [
         "ACTOR_robert-downey-jr",
@@ -1418,7 +1418,7 @@
         "GENRE_action",
         "GENRE_science-fiction",
         "GENRE_adventure",
-        "YEAR_2010"
+        "DECADE_2010"
     ],
     "avengers-endgame": [
         "ACTOR_robert-downey-jr",
@@ -1441,29 +1441,30 @@
         "GENRE_science-fiction",
         "GENRE_action",
         "GENRE_adventure",
-        "YEAR_2010"
+        "DECADE_2010"
     ],
-    "baby-driver": [
-        "ACTOR_ansel-elgort",
-        "ACTOR_kevin-spacey",
-        "ACTOR_lily-james",
-        "ACTOR_jon-hamm",
-        "ACTOR_jamie-foxx",
-        "ACTOR_jon-bernthal",
-        "ACTOR_eiza-gonzalez",
-        "ACTOR_flea",
-        "ACTOR_cj-jones",
-        "ACTOR_lanny-joon",
-        "DIRECTOR_edgar-wright",
-        "COUNTRY_uk",
+    "weapons-2025": [
+        "ACTOR_julia-garner",
+        "ACTOR_josh-brolin",
+        "ACTOR_alden-ehrenreich",
+        "ACTOR_austin-abrams",
+        "ACTOR_benedict-wong",
+        "ACTOR_amy-madigan",
+        "ACTOR_cary-christopher",
+        "ACTOR_toby-huss",
+        "ACTOR_whitmer-thomas",
+        "ACTOR_callie-schuttera",
+        "DIRECTOR_zach-cregger",
         "COUNTRY_usa",
-        "STUDIO_big-talk-productions",
-        "STUDIO_working-title-films-1",
-        "STUDIO_mrc-1",
+        "STUDIO_new-line-cinema",
+        "STUDIO_subconscious",
+        "STUDIO_vertigo-entertainment",
+        "STUDIO_boulderlight-pictures",
+        "STUDIO_domain-entertainment",
         "LANGUAGE_english",
-        "GENRE_crime",
-        "GENRE_action",
-        "YEAR_2010"
+        "GENRE_horror",
+        "GENRE_mystery",
+        "DECADE_2020"
     ],
     "hereditary": [
         "ACTOR_toni-collette",
@@ -1487,7 +1488,29 @@
         "GENRE_thriller",
         "GENRE_horror",
         "GENRE_mystery",
-        "YEAR_2010"
+        "DECADE_2010"
+    ],
+    "baby-driver": [
+        "ACTOR_ansel-elgort",
+        "ACTOR_kevin-spacey",
+        "ACTOR_lily-james",
+        "ACTOR_jon-hamm",
+        "ACTOR_jamie-foxx",
+        "ACTOR_jon-bernthal",
+        "ACTOR_eiza-gonzalez",
+        "ACTOR_flea",
+        "ACTOR_cj-jones",
+        "ACTOR_lanny-joon",
+        "DIRECTOR_edgar-wright",
+        "COUNTRY_uk",
+        "COUNTRY_usa",
+        "STUDIO_big-talk-productions",
+        "STUDIO_working-title-films-1",
+        "STUDIO_mrc-1",
+        "LANGUAGE_english",
+        "GENRE_crime",
+        "GENRE_action",
+        "DECADE_2010"
     ],
     "deadpool-wolverine": [
         "ACTOR_ryan-reynolds",
@@ -1512,7 +1535,7 @@
         "GENRE_science-fiction",
         "GENRE_action",
         "GENRE_comedy",
-        "YEAR_2020"
+        "DECADE_2020"
     ],
     "the-matrix": [
         "ACTOR_keanu-reeves",
@@ -1535,7 +1558,7 @@
         "LANGUAGE_english",
         "GENRE_science-fiction",
         "GENRE_action",
-        "YEAR_1990"
+        "DECADE_1990"
     ],
     "the-shawshank-redemption": [
         "ACTOR_tim-robbins",
@@ -1554,7 +1577,7 @@
         "LANGUAGE_english",
         "GENRE_crime",
         "GENRE_drama",
-        "YEAR_1990"
+        "DECADE_1990"
     ],
     "taxi-driver": [
         "ACTOR_robert-de-niro",
@@ -1576,7 +1599,7 @@
         "LANGUAGE_spanish",
         "GENRE_crime",
         "GENRE_drama",
-        "YEAR_1970"
+        "DECADE_1970"
     ],
     "the-social-network": [
         "ACTOR_jesse-eisenberg",
@@ -1598,28 +1621,7 @@
         "STUDIO_trigger-street-productions-1",
         "LANGUAGE_english",
         "GENRE_drama",
-        "YEAR_2010"
-    ],
-    "inside-out-2-2024": [
-        "ACTOR_amy-poehler",
-        "ACTOR_maya-hawke-1",
-        "ACTOR_kensington-tallman",
-        "ACTOR_liza-lapira",
-        "ACTOR_tony-hale-1",
-        "ACTOR_lewis-black",
-        "ACTOR_phyllis-smith",
-        "ACTOR_ayo-edebiri",
-        "ACTOR_lilimar",
-        "ACTOR_grace-lu",
-        "DIRECTOR_kelsey-mann",
-        "COUNTRY_usa",
-        "STUDIO_pixar",
-        "LANGUAGE_english",
-        "GENRE_comedy",
-        "GENRE_family",
-        "GENRE_adventure",
-        "GENRE_animation",
-        "YEAR_2020"
+        "DECADE_2010"
     ],
     "scott-pilgrim-vs-the-world": [
         "ACTOR_michael-cera",
@@ -1644,27 +1646,28 @@
         "GENRE_romance",
         "GENRE_action",
         "GENRE_comedy",
-        "YEAR_2010"
+        "DECADE_2010"
     ],
-    "her": [
-        "ACTOR_joaquin-phoenix",
-        "ACTOR_scarlett-johansson",
-        "ACTOR_lynn-adrianna",
-        "ACTOR_lisa-renee-pitts",
-        "ACTOR_gabe-gomez",
-        "ACTOR_chris-pratt",
-        "ACTOR_artt-butler",
-        "ACTOR_may-lindstrom",
-        "ACTOR_rooney-mara",
-        "ACTOR_bill-hader",
-        "DIRECTOR_spike-jonze",
+    "inside-out-2-2024": [
+        "ACTOR_amy-poehler",
+        "ACTOR_maya-hawke-1",
+        "ACTOR_kensington-tallman",
+        "ACTOR_liza-lapira",
+        "ACTOR_tony-hale-1",
+        "ACTOR_lewis-black",
+        "ACTOR_phyllis-smith",
+        "ACTOR_ayo-edebiri",
+        "ACTOR_lilimar",
+        "ACTOR_grace-lu",
+        "DIRECTOR_kelsey-mann",
         "COUNTRY_usa",
-        "STUDIO_annapurna-pictures",
+        "STUDIO_pixar",
         "LANGUAGE_english",
-        "GENRE_science-fiction",
-        "GENRE_romance",
-        "GENRE_drama",
-        "YEAR_2010"
+        "GENRE_comedy",
+        "GENRE_family",
+        "GENRE_adventure",
+        "GENRE_animation",
+        "DECADE_2020"
     ],
     "the-lord-of-the-rings-the-fellowship-of-the-ring": [
         "ACTOR_elijah-wood",
@@ -1687,6 +1690,6 @@
         "GENRE_adventure",
         "GENRE_action",
         "GENRE_fantasy",
-        "YEAR_2000"
+        "DECADE_2000"
     ]
 }
