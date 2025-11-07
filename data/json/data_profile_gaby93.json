@@ -182,9 +182,9 @@
         "STUDIO_uri-films",
         "STUDIO_4-a-4-productions",
         "LANGUAGE_spanish",
-        "LANGUAGE_arabic",
         "LANGUAGE_french",
         "LANGUAGE_english",
+        "LANGUAGE_arabic",
         "GENRE_thriller",
         "GENRE_drama",
         "DECADE_2020"
@@ -554,6 +554,7 @@
         "STUDIO_atelier-de-production",
         "LANGUAGE_french",
         "GENRE_drama",
+        "GENRE_thriller",
         "GENRE_comedy",
         "DECADE_2020"
     ],
@@ -2433,8 +2434,8 @@
         "ACTOR_cyril-mendy",
         "ACTOR_salimata-kamate-1",
         "ACTOR_absa-diatou-toure",
-        "DIRECTOR_olivier-nakache",
         "DIRECTOR_eric-toledano",
+        "DIRECTOR_olivier-nakache",
         "COUNTRY_france",
         "STUDIO_gaumont",
         "STUDIO_quad-productions-1",

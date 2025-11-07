@@ -5,7 +5,7 @@ import json
 
 start_time = time.time()
 
-list_movie_link=get_movie_links.get_films_url(page_url="https://letterboxd.com/films/popular/",
+list_movie_link,_=get_movie_links.get_films_url(page_url="https://letterboxd.com/films/popular/",
                                               nb_pages=1,
                                               type_item="posteritem")
 global_data_dico={}

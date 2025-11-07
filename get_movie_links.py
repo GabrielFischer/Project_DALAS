@@ -21,6 +21,7 @@ def default_driver_setup():
 def get_films_url(page_url,nb_pages,type_item,driver=default_driver_setup()):
     
     films_urls = []
+    notes_films=[]
 
     for i in range(1, nb_pages+1):  # pages 1 à n
         if i == 1:
@@ -40,11 +41,30 @@ def get_films_url(page_url,nb_pages,type_item,driver=default_driver_setup()):
             continue
 
         films = driver.find_elements(By.CSS_SELECTOR, "." +type_item+ " a")
+        flag=False
+        if type_item=="griditem": #on prend la note que quand on regarde le profil
+            notes = driver.find_elements(By.CSS_SELECTOR, "." +type_item+ " p.poster-viewingdata")
+            flag=True
+        
         print(f"Page {i}: {len(films)} films trouvés")
-        for film in films:
+        for j,film in enumerate(films):
             link = film.get_attribute("href")
             if link:
                 films_urls.append(link[28:-1]) #enlever le début du lien
+            if flag:
+                    try:
+                        span = notes[j].find_element(By.TAG_NAME, "span")
+                        class_attr = span.get_attribute("class")
+                        #print(class_attr.strip()) 
+                        grade=int(class_attr.strip()[-1])
+                        if grade==0: #si le dernier caractère est 0 alors la note est 10...
+                            grade=10
+                        notes_films.append(grade) #note donnée au film (1 à 10)
+                    except:
+                        #aucun span trouvé (film vu mais non notés)
+                        notes_films.append(5) #note moyenne si le film n'est pas noté, a voir si on trouve mieux a faire
+
+            
 
 
         # Pause entre les pages pour éviter un blocage
@@ -59,4 +79,4 @@ def get_films_url(page_url,nb_pages,type_item,driver=default_driver_setup()):
 
     print(f"Total de liens collectés : {len(films_urls)}")
     print(f"Durée d'execution : {exec_duration}")
-    return films_urls
+    return films_urls,notes_films
